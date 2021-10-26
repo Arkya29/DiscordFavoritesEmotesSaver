@@ -1,7 +1,7 @@
 # DiscordFavoritesEmotesSaver
-[EN] Easily add and save your favorite Discord emotes (like "frequently used").
+[[English] Easily add and save your favorite Discord emotes (like "frequently used").](https://github.com/Arkya29/DiscordFavoritesEmotesSaver#english)
 
-[FR] Ajoutez et sauvegardez facilement vos émojis discord favoris (comme "utilisés fréquemment").
+[[French] Ajoutez et sauvegardez facilement vos émojis discord favoris (comme "utilisés fréquemment").](https://github.com/Arkya29/DiscordFavoritesEmotesSaver#french)
 
 ![emotes](https://user-images.githubusercontent.com/61916582/138786506-ef327ba0-59f2-42b1-bc69-1e6ee9256416.png)
 ## English
