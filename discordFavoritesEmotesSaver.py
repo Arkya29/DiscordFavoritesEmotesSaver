@@ -1,6 +1,6 @@
 """
 Excuse my bad English, I'm french. Project started on October 24, 2021 by Arkya29.
-More informations on github.com/Arkya29/DiscordFavoritesEmotesSaver.
+More informations at github.com/Arkya29/DiscordFavoritesEmotesSaver.
 Emotes with numbers in their name are not supported.
 """
 
