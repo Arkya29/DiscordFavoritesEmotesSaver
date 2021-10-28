@@ -21,7 +21,14 @@ You can add favorites emotes one by one with alt + click, but when you log out o
 ![takeCustomEmotes](https://i.goopics.net/9jnkqr.gif)
 #### III. Access "EmojiStore" key.
 ⚠️ Never put or reveal text you do not understand in the developer tools. This could give malicious people access to your account. ⚠️
+* Ouvrez Discord sur https://discord.com/login ou sur le logiciel.
+* Rester appuyer simulanément sur les touches "CTRL + Maj + I. L'outil de développement Discord s'ouvre.
+* Ouvrez l'onglet "Application" en haut. Si vous ne le voyez pas, cliquez sur **»** (ou sur **+** si vous ne le voyez toujours pas).
+* Cliquez sur "Stockage local", puis sur "https: //discord.com".
+* Trouvez la clé "EmojiStore" (vous pouvez vous aider du champ de recherche "Filtrer"), et double-cliquez sur la valeur pour la sélectionner
+* Vous pouvez maintenant copier ou coller la clé.
 
+![EmojiStoreKey](https://user-images.githubusercontent.com/61916582/139253531-076edf46-997c-4773-884f-7701ed8f51c5.png)
 
 ## French
 Vous pouvez ajouter des emojis favoris un par un avec alt + clic, mais quand vous vous déconnectez ou changez de client, les favoris disparaissent... J'ai donc créé un programme pour résoudre ce problème.
@@ -45,7 +52,8 @@ Vous pouvez ajouter des emojis favoris un par un avec alt + clic, mais quand vou
 * Rester appuyer simulanément sur les touches "CTRL + Maj + I. L'outil de développement Discord s'ouvre.
 * Ouvrez l'onglet "Application" en haut. Si vous ne le voyez pas, cliquez sur **»** (ou sur **+** si vous ne le voyez toujours pas).
 * Cliquez sur "Stockage local", puis sur "https: //discord.com".
-* Trouvez la clé "EmojiStore" (vous pouvez vous aider du champ de recherche "Filtrer"), et double-cliquez sur la valeur pour la sélectionner, puis copiez là.
+* Trouvez la clé "EmojiStore" (vous pouvez vous aider du champ de recherche "Filtrer"), et double-cliquez sur la valeur pour la sélectionner
+* Vous pouvez maintenant copier ou coller la clé.
 
 ![EmojiStoreKey](https://user-images.githubusercontent.com/61916582/139253531-076edf46-997c-4773-884f-7701ed8f51c5.png)
 
