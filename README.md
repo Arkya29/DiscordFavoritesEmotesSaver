@@ -19,7 +19,7 @@ You can add favorites emotes one by one with alt + click, but when you log out o
 **Note** : Emotes with numbers in their name *are not* supported.
 
 ![takeCustomEmotes](https://i.goopics.net/9jnkqr.gif)
-Coming soon (maybe in some hours)...
+
 
 ## French
 Vous pouvez ajouter des emojis favoris un par un avec alt + clic, mais quand vous vous déconnectez ou changez de client, les favoris disparaissent... J'ai donc créé un programme pour résoudre ce problème.
@@ -36,5 +36,3 @@ Vous pouvez ajouter des emojis favoris un par un avec alt + clic, mais quand vou
 **Note :** Les émotes avec des chiffres dans leur nom *ne sont pas* supportées.
 
 ![takeCustomEmotes](https://i.goopics.net/9jnkqr.gif)
-
-Coming soon...
