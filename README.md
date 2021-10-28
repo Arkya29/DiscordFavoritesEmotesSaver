@@ -11,7 +11,7 @@ You can add favorites emotes one by one with alt + click, but when you log out o
 • Post a message containing all the Discord built-in emojis you want to add to your favourites, in the same line.  
 • Edit the message, select all the emojis, and copy them.
 
-![takeBasicEmotes](https://i.goopics.net/j3ww7i.gif)
+![takeBultinEmotes](https://i.goopics.net/j3ww7i.gif)
 #### II. Customs emotes
 • Post a message containing all the customs emojis you want to add to your favourites, in the same line.  
 • Edit the message, add a [grave accent](https://en.wikipedia.org/wiki/Grave_accent) on the beginning and on the line below, post the message, et copy the text.
@@ -26,7 +26,7 @@ Vous pouvez ajouter des emojis favoris un par un avec alt + clic, mais quand vou
 • Postez un message contenant les émojis intégrés à Discord que vous souhaitez ajouter à vos favoris, en une seule ligne.  
 • Modifiez le message, sélectionnez l'ensemble des émojis, et copiez-les.
 
-![takeBasicEmotes](https://i.goopics.net/j3ww7i.gif)
+![takeBuiltinEmotes](https://i.goopics.net/j3ww7i.gif)
 #### II. Emojis personalisés
 • Postez un message contenant les émojis personalisés que vous souhaitez ajouter à vos favoris, en une seule ligne. 
 • Modifiez le message, ajoutez un [accent grave](https://fr.wikipedia.org/wiki/Accent_grave) (alt + è) au début et sur la ligne en dessous, postez le message, et copiez le texte.
