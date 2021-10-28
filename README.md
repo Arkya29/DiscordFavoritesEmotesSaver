@@ -19,6 +19,8 @@ You can add favorites emotes one by one with alt + click, but when you log out o
 **Note** : Emotes with numbers in their name *are not* supported.
 
 ![takeCustomEmotes](https://i.goopics.net/9jnkqr.gif)
+#### III. Access "EmojiStore" key.
+⚠️ Never put or reveal text you do not understand in the developer tools. This could give malicious people access to your account. ⚠️
 
 
 ## French
@@ -36,3 +38,15 @@ Vous pouvez ajouter des emojis favoris un par un avec alt + clic, mais quand vou
 **Note :** Les émotes avec des chiffres dans leur nom *ne sont pas* supportées.
 
 ![takeCustomEmotes](https://i.goopics.net/9jnkqr.gif)
+
+#### III. Accéder à la clé "EmojiStore"
+⚠️ Ne mettez et ne dévoilez jamais de texte que vous ne comprenez pas dans les outils de développeur. Cela pourrait offrir un accès à votre compte à des personnes malveillantes. ⚠️ 
+* Ouvrez Discord sur https://discord.com/login ou sur le logiciel.
+* Rester appuyer simulanément sur les touches "CTRL + Maj + I. L'outil de développement Discord s'ouvre.
+* Ouvrez l'onglet "Application" en haut. Si vous ne le voyez pas, cliquez sur **»** (ou sur **+** si vous ne le voyez toujours pas).
+* Cliquez sur "Stockage local", puis sur "https: //discord.com".
+* Trouvez la clé "EmojiStore" (vous pouvez vous aider du champ de recherche "Filtrer"), et double-cliquez sur la valeur pour la sélectionner, puis copiez là.
+
+![EmojiStoreKey](https://user-images.githubusercontent.com/61916582/139253531-076edf46-997c-4773-884f-7701ed8f51c5.png)
+
+
