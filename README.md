@@ -8,12 +8,12 @@
 You can add favorites emotes one by one with alt + click, but when you log out or change client, the favorites disappear... So, I created a program to solve this problem.
 
 #### I. Built-in emotes
-• Post a message containing all the Discord built-in emojis you want to add to your favourites, in the same line.  
+• Post a message containing all the Discord built-in emojis you want to add to your favorites, in the same line.  
 • Edit the message, select all the emojis, and copy them.
 
 ![takeBultinEmotes](https://i.goopics.net/j3ww7i.gif)
 #### II. Customs emotes
-• Post a message containing all the customs emojis you want to add to your favourites, in the same line.  
+• Post a message containing all the customs emojis you want to add to your favorites, in the same line.  
 • Edit the message, add a [grave accent](https://en.wikipedia.org/wiki/Grave_accent) on the beginning and on the line below, post the message, et copy the text.
 
 ![takeCustomEmotes](https://i.goopics.net/9jnkqr.gif)
