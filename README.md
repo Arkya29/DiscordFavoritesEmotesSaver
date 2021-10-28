@@ -16,7 +16,7 @@ You can add favorites emotes one by one with alt + click, but when you log out o
 * Post a message containing all the customs emojis you want to add to your favorites, in the same line.  
 * Edit the message, add a [grave accent](https://en.wikipedia.org/wiki/Grave_accent) on the beginning and on the line below, post the message, et copy the text.
 
-**Note** : Emotes with numbers in their name *are not** supported.
+**Note** : Emotes with numbers in their name *are not* supported.
 
 ![takeCustomEmotes](https://i.goopics.net/9jnkqr.gif)
 Coming soon (maybe in some hours)...
