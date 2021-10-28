@@ -26,7 +26,8 @@ You can add favorites emotes one by one with alt + click, but when you log out o
 * Open the "Application" tab at the top. If you don't see it, click on **»** (or **+** if you still don't see it).
 * Click on "Local storage", then on "https: //discord.com".
 * Find the key "EmojiStore" (you can use the search field "Filter"), and double click on the value to select it.
-* You can now copy or paste the key.
+* You can now copy the current key and paste it to the program, or paste the key created by the program.
+* Refresh Discord by pressing "F5" (on discord.com) or "CTRL" + "R" on a software client.
 
 ![EmojiStoreKey](https://user-images.githubusercontent.com/61916582/139253531-076edf46-997c-4773-884f-7701ed8f51c5.png)
 
@@ -53,6 +54,7 @@ Vous pouvez ajouter des emojis favoris un par un avec alt + clic, mais quand vou
 * Ouvrez l'onglet "Application" en haut. Si vous ne le voyez pas, cliquez sur **»** (ou sur **+** si vous ne le voyez toujours pas).
 * Cliquez sur "Stockage local", puis sur "https: //discord.com".
 * Trouvez la clé "EmojiStore" (vous pouvez vous aider du champ de recherche "Filtrer"), et double-cliquez sur la valeur pour la sélectionner.
-* Vous pouvez maintenant copier ou coller la clé.
+* Vous pouvez maintenant copier la clée actuelle pour la coller sur le programme, ou coller la clé créée par le programme.
+* Actualisez Discord en appuyant sur "F5" (sur discord.com) or "CTRL" + "R" sur le logiciel Discord.
 
 ![EmojiStoreKey](https://user-images.githubusercontent.com/61916582/139253531-076edf46-997c-4773-884f-7701ed8f51c5.png)
