@@ -28,7 +28,7 @@ You can add favorites emotes one by one with alt + click, but when you log out o
 * Find the key "EmojiStore" (you can use the search field "Filter"), and double click on the value to select it.
 * You can now copy the current key and paste it to the program, or paste the key created by the program.
 * Refresh Discord by pressing "F5" (on discord.com) or "CTRL" + "R" on a software client.
-If the emotes "A, R, K, Y, A, 2, 9" are displayed in the recently used emotes, the key has been accepted.
+If the emotes "A, R, K, Y, A, 2, 9" are displayed in the recently used emotes, the key has been accepted. Don't forget to save your key somewhere.
 
 ![EmojiStoreKey](https://user-images.githubusercontent.com/61916582/139253531-076edf46-997c-4773-884f-7701ed8f51c5.png)
 
@@ -57,6 +57,6 @@ Vous pouvez ajouter des emojis favoris un par un avec alt + clic, mais quand vou
 * Trouvez la clé "EmojiStore" (vous pouvez vous aider du champ de recherche "Filtrer"), et double-cliquez sur la valeur pour la sélectionner.
 * Vous pouvez maintenant copier la clée actuelle pour la coller sur le programme, ou coller la clé créée par le programme.
 * Actualisez Discord en appuyant sur "F5" (sur discord.com) or "CTRL" + "R" sur le logiciel Discord. 
-Si les émojis "A, R, K, Y, A, 2, 9" s'affichent dans les émojis recemment utilisés, la clé a acceptée.
+Si les émojis "A, R, K, Y, A, 2, 9" s'affichent dans les émojis recemment utilisés, la clé a acceptée. N'oubliez pas d'enregistrer votre clé quelque part.
 
 ![EmojiStoreKey](https://user-images.githubusercontent.com/61916582/139253531-076edf46-997c-4773-884f-7701ed8f51c5.png)
