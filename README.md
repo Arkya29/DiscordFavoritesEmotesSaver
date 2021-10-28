@@ -24,7 +24,7 @@ You can add favorites emotes one by one with alt + click, but when you log out o
 ## French
 Vous pouvez ajouter des emojis favoris un par un avec alt + clic, mais quand vous vous déconnectez ou changez de client, les favoris disparaissent... J'ai donc créé un programme pour résoudre ce problème.
 
-#### I. Récupérer les emojis de base (intégrés à Discord)
+#### I. Récupérer les emojis "built-in" (intégrés à Discord)
 * Postez un message contenant les émojis intégrés à Discord que vous souhaitez ajouter à vos favoris, en une seule ligne.  
 * Modifiez le message, sélectionnez l'ensemble des émojis, et copiez-les.
 
