@@ -4,6 +4,10 @@
 [[French] Ajoutez et sauvegardez facilement vos émojis discord favoris (comme "utilisés fréquemment").](https://github.com/Arkya29/DiscordFavoritesEmotesSaver#french)
 
 ![favoritesEmotes](https://user-images.githubusercontent.com/61916582/138786506-ef327ba0-59f2-42b1-bc69-1e6ee9256416.png)
+
+**Edit du 12 novembre 2021 :** Selon certaines sources, une syncronisation par le compte Discord pourrait prochainement être mise en place par Discord.
+
+**Edit of 12 November 2021 :** According to some sources, a syncronisation through the Discord account could soon be implemented by Discord.
 ## English
 You can add favorites emotes one by one with alt + click, but when you log out or change client, the favorites disappear... So, I created a program to solve this problem.
 
