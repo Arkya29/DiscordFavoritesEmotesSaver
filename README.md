@@ -25,7 +25,7 @@ You can add favorites emotes one by one with alt + click, but when you log out o
 ![takeCustomEmotes](https://i.goopics.net/9jnkqr.gif)
 #### III. Access "EmojiStore" key.
 ⚠️ Never put or reveal text you do not understand in the developer tools. This could give malicious people access to your account. ⚠️
-* Open Discord in https://discord.com/login or on software client.
+* Open Discord in https://discord.com/login.
 * Simultaneously hold down the keys "CTRL + Shift + I. The Discord development tool opens.
 * Open the "Application" tab at the top. If you don't see it, click on **»** (or **+** if you still don't see it).
 * Click on "Local storage", then on "https: //discord.com".
@@ -54,7 +54,7 @@ Vous pouvez ajouter des emojis favoris un par un avec alt + clic, mais quand vou
 
 #### III. Accéder à la clé "EmojiStore"
 ⚠️ Ne mettez et ne dévoilez jamais de texte que vous ne comprenez pas dans les outils de développeur. Cela pourrait offrir un accès à votre compte à des personnes malveillantes. ⚠️ 
-* Ouvrez Discord sur https://discord.com/login ou sur le logiciel.
+* Ouvrez Discord sur https://discord.com/login.
 * Rester appuyer simulanément sur les touches "CTRL + Maj + I. L'outil de développement Discord s'ouvre.
 * Ouvrez l'onglet "Application" en haut. Si vous ne le voyez pas, cliquez sur **»** (ou sur **+** si vous ne le voyez toujours pas).
 * Cliquez sur "Stockage local", puis sur "https: //discord.com".
