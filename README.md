@@ -61,6 +61,6 @@ Vous pouvez ajouter des emojis favoris un par un avec alt + clic, mais quand vou
 * Trouvez la clé "EmojiStore" (vous pouvez vous aider du champ de recherche "Filtrer"), et double-cliquez sur la valeur pour la sélectionner.
 * Vous pouvez maintenant copier la clée actuelle pour la coller sur le programme, ou coller la clé créée par le programme.
 * Actualisez Discord en appuyant sur "F5" (sur discord.com) or "CTRL" + "R" sur le logiciel Discord. 
-Si les émojis "A, R, K, Y, A, 2, 9" s'affichent dans les émojis recemment utilisés, la clé a acceptée. N'oubliez pas d'enregistrer votre clé quelque part.
+Si les émojis "A, R, K, Y, A, 2, 9" s'affichent dans les émojis recemment utilisés, la clé a été acceptée. N'oubliez pas d'enregistrer votre clé quelque part.
 
 ![EmojiStoreKey](https://user-images.githubusercontent.com/61916582/139253531-076edf46-997c-4773-884f-7701ed8f51c5.png)
